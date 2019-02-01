@@ -15,9 +15,7 @@ while x < targetparam,
     if abs(n_count - 300) < 1e-9, % if the random tries is almost 300
         break;
     end;
-    %  Always include an escape for a while loop
-    %  in case you screw up the programming.  Otherwise,
-    %  you might get caught in an infinite loop.
+    %  break
     
 end;
  
