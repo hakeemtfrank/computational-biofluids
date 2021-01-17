@@ -1,3 +1,3 @@
 # computational-fluids
 
-![](figs/phi125_pic.png)
+![](figs/phi_125pic.png)
